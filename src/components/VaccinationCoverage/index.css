@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.bg-vac {
+  background-color: #1c1c2b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  flex-direction: column;
+}
+
+.head1 {
+  color: #ffffff;
+  font-size: 18px;
+  margin: 10px;
+}
